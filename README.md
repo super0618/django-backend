@@ -40,7 +40,7 @@ Firstly, create a new directory and change to it:
 
 Then, clone this repository to the current directory:
 
-`git clone https://github.com/kkosiba/ecommerce-backend.git .`
+`git clone https://github.com/super0618/django-backend.git`
 
 For the backend to work, one needs to setup database like SQLite or PostgreSQL on a local machine. This project uses PostgreSQL by default (see [Django documentation](https://docs.djangoproject.com/en/3.2/ref/settings/#databases) for different setup). This process may vary from one OS to another, eg. on Arch Linux one can follow a straightforward guide [here](https://wiki.archlinux.org/index.php/PostgreSQL).
 
